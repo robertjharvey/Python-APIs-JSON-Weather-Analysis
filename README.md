@@ -1,13 +1,6 @@
-# Python API Challenge - What's the Weather Like?
+# Python APIs - What's the Weather Like?
 
-## Use Python requests, APIs, and JSON traversals to per form the following:
-## Part I - WeatherPy:
-Create a Python script to visualize the weather of 500+ cities across the world of varying distance from the equator using.
-
-## Part II - VacationPy:
-Use Jupyter gmaps and the Google Places API to plan future vacations based on weather data.
-
-## Breakdown of Tasks
+## Use Python requests, APIs, and JSON traversals to perform the following:
 
 ### Part 1 - WeatherPy
 1. Generate random list of lat, long values using numpy.
@@ -38,10 +31,3 @@ Use Jupyter gmaps and the Google Places API to plan future vacations based on we
 ![HeatMap](VacationPy/vacationheatmap.png)
 
 ![HotelHeatMap](VacationPy/vacationheatmapwithhotels.png)
-
-## Disclaimer 
-
-This project was published for education purposes only. 
-
-Copyright
-Trilogy Education Services © 2019. All Rights Reserved.
